@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APiRepository", "APiRepository\APiRepository.csproj", "{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webmvcg", "webmvcg\webmvcg.csproj", "{468D8122-63A1-4D80-B67B-59916F0840CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468D8122-63A1-4D80-B67B-59916F0840CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468D8122-63A1-4D80-B67B-59916F0840CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468D8122-63A1-4D80-B67B-59916F0840CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468D8122-63A1-4D80-B67B-59916F0840CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC0E799-1DD2-494C-962E-807FC671664C}
+	EndGlobalSection
+EndGlobal

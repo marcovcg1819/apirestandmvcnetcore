@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{4030C98D-70E1-4138-BB33-B7B1CD8DBCBF}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APiRepository/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="APiRepository/Data/AppDbContext.cs" Line="18" Column="10" />
+      <File FileName="APiRepository/appsettings.json" Line="9" Column="18" />
+      <File FileName="APiRepository/Program.cs" Line="10" Column="48" />
+      <File FileName="APiRepository/Models/Product.cs" />
+      <File FileName="APiRepository/Models/Order.cs" />
+      <File FileName="APiRepository/Models/Category.cs" />
+      <File FileName="APiRepository/Models/Review.cs" />
+      <File FileName="APiRepository/Models/User.cs" />
+      <File FileName="APiRepository/UnitofWork/IUnitOfwork.cs" />
+      <File FileName="APiRepository/UnitofWork/UnitOfwork.cs" />
+      <File FileName="APiRepository/Repository/IRepository.cs" />
+      <File FileName="APiRepository/Repository/RepositoryBase.cs" Line="39" Column="17" />
+      <File FileName="APiRepository/Repository/CategoryRepository.cs" />
+      <File FileName="APiRepository/Controllers/CategoryController.cs" />
+      <File FileName="webmvcg/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APiRepository" expanded="True">
+            <Node name="APiRepository" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webmvcg FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.APiRepository PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
